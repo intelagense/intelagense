@@ -1,6 +1,4 @@
 # I’m @intelagense
-**Software Engineer:**  
-Full Stack Web
 
 ## About Me 🤠
 * Native Texan
