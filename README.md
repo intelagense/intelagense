@@ -11,8 +11,7 @@
 ### [Portfolio](https://www.intelagense.com/)
 ### [LinkedIn](https://www.linkedin.com/in/eric-wynn-romere/)
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=intelagense&cover_image=false&theme=default&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=intelagense&cover_image=false&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=intelagense&redirect=true)
 
 <!---
 You found the secret message!
