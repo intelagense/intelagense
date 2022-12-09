@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/intelagense" target="blank"><img src="https://img.shields.io/twitter/follow/intelagense?logo=twitter&style=for-the-badge" alt="intelagense" /></a> </p>
 
-- 🔭 I’m currently working on **Property Journal**
+- 🔭 I’m currently working on <a href="https://github.com/intelagense/Together" target="blank">**Together**</a>
 
 - 🌱 I’m currently learning **React Native**
 
