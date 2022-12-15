@@ -1,5 +1,5 @@
 <h1 align="center">Howdy 👋, I'm intelagense</h1>
-<h3 align="center">A full stack software engineer from Texas</h3>
+<h3 align="center">A full stack software engineer from Houston, Texas</h3>
 
 <p align="left"> <a href="https://twitter.com/intelagense" target="blank"><img src="https://img.shields.io/twitter/follow/intelagense?logo=twitter&style=for-the-badge" alt="intelagense" /></a> </p>
 
@@ -17,7 +17,7 @@
 
 * Native Texan
 * Repair enthusiast 
-* I started coding at a young age. Unfortunately my GeoCities R-Type fan site was deleted at some point so I had to come up with some new project ideas.  
+* I started coding at a young age. Unfortunately my GeoCities R-Type fan site was deleted at some point so I had to come up with some new project ideas for GitHub.  
 
 <br>
 
