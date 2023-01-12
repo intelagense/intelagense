@@ -104,7 +104,7 @@
             <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
           </a>  
       </p>
-      <p><strong>Arduino C, I2C</strong> - Originally contracted to a company to use in their corporate team building and training events. The device includes both custom hardware and software. Adaptable for use in escape rooms and paintball competitions.</p>
+      <p><strong>Arduino C, I2C</strong> - Suspenseful team building game contracted and built for use in corporate training events. Includes both custom hardware and software. Adaptable for use in escape rooms and paintball competitions.</p>
     </td>
     
   </tr>
