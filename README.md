@@ -93,14 +93,14 @@
       <p><strong>ReactJS, TailwindCSS, Node.js, Express.js, MongoDB</strong> - Logged in users create and view community events for the 40,000 member 100Devs Agency Discord.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Diffuse or Lose</h3>
+      <h3 align="center">Lose or Defuse</h3>
         <br />
-        <a target="_blank" href="https://github.com/intelagense/diffuse-or-lose">
+        <a target="_blank" href="https://github.com/intelagense/lose-or-defuse">
             <img src="images/propbombprofile.gif" width="100%" alt="Prop bomb demo"/>
         </a>
         <br />
         <p align="center">
-          <a href="https://github.com/intelagense/diffuse-or-lose" target="_blank">
+          <a href="https://github.com/intelagense/lose-or-defuse" target="_blank">
             <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
           </a>  
       </p>
