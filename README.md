@@ -115,9 +115,9 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=intelagense&show_icons=true&locale=en" alt="intelagense" /></p>
  -->
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=intelagense&theme=default" alt="intelagense" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=intelagense&theme=default" alt="intelagense" /></p>
 
-<br>
+<br> -->
 
 ## My current soundtrack 🎸
 
