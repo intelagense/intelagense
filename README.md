@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on <a href="https://github.com/intelagense/Together" target="blank">**Together**</a>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **how to hack RC cars to transmit text**
 
 - 💬 Ask me about **JavaScript**
 
-- ⚡ Fun fact **I am boring.**
+- ⚡ Fun fact **I am boring**
 
 <br>
 
