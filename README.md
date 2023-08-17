@@ -50,7 +50,7 @@
             <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
           </a>  
           <a href="http://property-journal.cyclic.app/" target="_blank">
-            <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+            <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=bootstrap&logo-color=white"/>
           </a>
       </p>
       <p><strong>Bootstrap, EJS, Node.js, Express.js, MongoDB</strong> - Maintenance journal to track home repairs and purchases. Users log in to upload photos and create notes for home repairs and reference materials.</p>
@@ -67,7 +67,7 @@
             <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
           </a>  
           <a href="https://intelagense.itch.io/cortext" target="_blank">
-            <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+            <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=javascript&logo-color=white"/>
           </a>
       </p>
       <p><strong>Vanilla JavaScript, HTML, CSS</strong> - Retro inspired point and click adventure game that utilizes AI generated graphics. Original story and design. Built for Super Casual Game Jam 2</p>
@@ -87,7 +87,7 @@
             <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
           </a>  
           <a href="https://together.cyclic.app/" target="_blank">
-            <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+            <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=react&logo-color=white"/>
           </a>
       </p>
       <p><strong>ReactJS, TailwindCSS, Node.js, Express.js, MongoDB</strong> - Logged in users create and view community events for the 40,000 member 100Devs Agency Discord.</p>
