@@ -1,11 +1,21 @@
 <h1 align="center">Howdy 👋, I'm intelagense</h1>
 <h3 align="center">A full stack software engineer from Houston, Texas</h3>
 
-<p align="left"> <a href="https://twitter.com/intelagense" target="blank"><img src="https://img.shields.io/twitter/follow/intelagense?logo=twitter&style=for-the-badge" alt="intelagense" /></a> </p>
+<h2 align="center"> #30NitesOfCode:</h2>
 
-- 🔭 I’m currently working on <a href="https://github.com/intelagense/Together" target="blank">**Together**</a>
+<div align="center">
 
-- 🌱 I’m currently learning **how to hack RC cars to transmit text**
+![@intelagense #30NitesOfCode](https://www.codedex.io/api/petStatus?user=intelagense)  
+
+[Check out my progress!](https://www.codedex.io/@intelagense/30-nites-of-code)  
+
+</div>
+
+---
+
+- 🔭 I’m currently working on <a href="https://www.codedex.io/community/monthly-challenge/january-2024">Codédex #30NitesOfCode</a>
+
+- 🌱 I’m currently learning **Three.js**
 
 - 💬 Ask me about **JavaScript**
 
