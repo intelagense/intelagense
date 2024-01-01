@@ -1,6 +1,8 @@
 <h1 align="center">Howdy 👋, I'm intelagense</h1>
 <h3 align="center">A full stack software engineer from Houston, Texas</h3>
 
+---
+
 <h2 align="center"> #30NitesOfCode:</h2>
 
 <div align="center">
