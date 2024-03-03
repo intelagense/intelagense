@@ -15,7 +15,7 @@
 
 ---
 
-- 🔭 I’m currently working on <a href="https://www.codedex.io/community/monthly-challenge/january-2024">Codédex #30NitesOfCode</a>
+- 🔭 I’m currently working on <a href="https://www.codedex.io/30-nites-of-code">Codédex #30NitesOfCode</a>
 
 - 🌱 I’m currently learning **Three.js**
 
