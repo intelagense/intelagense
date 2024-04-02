@@ -13,6 +13,61 @@
 
 </div>
 
+<!--
+# Welcome to My Text Adventure
+
+Explore the adventure by making choices! Will you uncover the secrets or find your way to the treasure?
+
+<details>
+<summary>Start your journey</summary>
+  
+  You find yourself in a dimly lit room with two doors: one to your left and one to your right.
+
+  <details>
+  <summary>🚪 Go through the left door</summary>
+  
+  - You enter a library filled with ancient books. A mysterious map lies on the table.
+    <details>
+    <summary>🗺️ Examine the map</summary>
+    
+    - It's a map leading to a hidden treasure in a nearby forest. Do you:
+      <details>
+      <summary>🌲 Follow the map</summary>
+      
+      - You find the treasure and win the game!
+      </details>
+      <details>
+      <summary>📚 Stay and read more books</summary>
+      
+      - You become the most knowledgeable adventurer!
+      </details>
+    </details>
+  </details>
+
+  <details>
+  <summary>🚪 Go through the right door</summary>
+  
+  - You find yourself in a dark corridor with strange markings on the walls.
+    <details>
+    <summary>🔍 Investigate the markings</summary>
+    
+    - The markings reveal a hidden passageway. Do you:
+      <details>
+      <summary>✨ Enter the passageway</summary>
+      
+      - You discover a secret society of wizards and are invited to join!
+      </details>
+      <details>
+      <summary>🔙 Turn back</summary>
+      
+      - You exit the corridor and the room disappears, an illusion!
+      </details>
+    </details>
+  </details>
+
+</details>
+-->
+
 ---
 
 - 🔭 I’m currently working on <a href="https://www.codedex.io/30-nites-of-code">Codédex #30NitesOfCode</a>
