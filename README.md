@@ -1,5 +1,5 @@
 <h1 align="center">Howdy 👋, I'm intelagense</h1>
-<h3 align="center">A full stack software engineer from Houston, Texas</h3>
+<h3 align="center">Software Engineer from Houston, Texas</h3>
 
 ---
 
@@ -70,9 +70,9 @@ Explore the adventure by making choices! Will you uncover the secrets or find yo
 
 ---
 
-- 🔭 I’m currently working on <a href="https://www.codedex.io/30-nites-of-code">Codédex #30NitesOfCode</a>
+- 🔭 I’m currently working on <a href="https://www.codedex.io/">Codédex!</a>
 
-- 🌱 I’m currently learning **Three.js**
+- 🌱 I’m currently learning **Redux** and relearning **Styled Components 💅**
 
 - 💬 Ask me about **JavaScript**
 
@@ -84,16 +84,17 @@ Explore the adventure by making choices! Will you uncover the secrets or find yo
 
 * Native Texan
 * Repair enthusiast 
-* I started coding at a young age. Unfortunately my GeoCities R-Type fan site was deleted at some point so I had to come up with some new project ideas for GitHub.  
+* My projects prove that YOE != talent. 😆
 
 <br>
 
-## 📫 How to reach me ...
+## 📫 Reach me ...
 
-### [Twitter](https://twitter.com/intelagense)
-### [LinkedIn](https://www.linkedin.com/in/eric-wynn-romere/)
-### [Portfolio](https://www.intelagense.com/)
-### [Email (Contact Form)](https://www.intelagense.com/#contact)
+### [X/Twitter/intelagense](https://twitter.com/intelagense)
+### [LinkedIn/eric-wynn-romere](https://www.linkedin.com/in/eric-wynn-romere/)
+### [Portfolio/intelagense.com](https://www.intelagense.com/)
+### [Email (Contact form on portfolio)](https://www.intelagense.com/#contact)
+> My personal email has mostly spam. Try to reach out on Discord, if you know where to look for me.
 
 <br>
 
